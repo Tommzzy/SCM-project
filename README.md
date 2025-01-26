@@ -36,6 +36,6 @@ root/
 ├── package.json        # Dependency manager file (for Node.js projects)
 └── pom.xml             # Build file (for Maven projects, adjust for Gradle if needed)
 
-# Application Template
+# Web Application Template
 ![IMG-20250126-WA0000](https://github.com/user-attachments/assets/cb8c8553-7712-4049-947a-cce3279d8a83)
 
